@@ -1,0 +1,6 @@
+{
+  "name": "Mikyaj Beauty Parlor Customer Portal",
+  "description": "Luxurious customer self-service and booking portal for Mikyaj Beauty Parlor featuring interactive service catalog, live booking widget, stylist selection, appointment scheduling, and customer dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
